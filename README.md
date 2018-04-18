@@ -100,3 +100,4 @@ The following guide is for the specific platform prebuild setting:
 [注音倉頡輸入法]: https://code.google.com/p/android-traditional-chinese-ime/
 [Rime]: http://rime.im
 [OpenCC]: https://github.com/BYVoid/OpenCC
+# IME
